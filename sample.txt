@@ -1,2 +1,2 @@
-This is sample.txt updated in remote.
-again changed in remote.
+This is sample.txt updated from remote.
+updated in local.
